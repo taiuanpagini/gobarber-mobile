@@ -27,7 +27,7 @@ Em seguida, baixe, instale as dependências e execute o projeto:
 8. react-native run-ios
 ```
 
-or
+ou
 
 ```
 8. react-native run-android
